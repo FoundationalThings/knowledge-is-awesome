@@ -5,4 +5,4 @@ The official Foundational Things knowledge base, because knowledge (and sharing 
 To capture and publicly share the (primarily how-to) knowledge acquired while developing.
 
 ## Licence
-Knowledge is Awesome © 2025 by Foundational Things (Donna J. Harris) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC icon" width="16px" height="16px"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY icon" width="16px" height="16px">
+Knowledge is Awesome © 2025 by Foundational Things (Donna J. Harris) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC icon" width="16px" height="16px"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY icon" width="22px" height="22px">
