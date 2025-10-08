@@ -1,7 +1,7 @@
 # Knowledge is Awesome!
 The official Foundational Things knowledge base, because knowledge (and sharing it) is awesome.
 
-## Purposse
+## Purpose
 To capture and publicly share the (including how-to) knowledge acquired while developing.
 
 ### Wiki Content
